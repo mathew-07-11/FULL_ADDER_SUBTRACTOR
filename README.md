@@ -37,7 +37,8 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
-![WhatsApp Image 2025-11-20 at 9 29 14 PM](https://github.com/user-attachments/assets/0488a222-a699-422a-b3b3-ed46dbff5fed)
+![WhatsApp Image 2025-11-20 at 9 29 14 PM](https://github.com/user-attachments/assets/bfab17ce-5339-497b-a750-e5b28ea9c0dd)
+
 
 **Procedure**
 
