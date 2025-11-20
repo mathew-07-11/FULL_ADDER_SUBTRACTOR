@@ -52,7 +52,7 @@ Create nodes for inputs and outputs to generate the timing diagram.
 For different input combinations generate the timing diagram.
 
 **Program:**
-
+```
 module exp4 (a,b,c,x,y,z,sum,dif,car,bor);
 input a,b,c,x,y,z;
 output sum,dif,car,bor;
@@ -61,7 +61,7 @@ assign car = a&b | a&c | b&c;
 assign dif = x^y^z;
 assign bor = ~x&z | ~x&y | y&z;
 endmodule
-
+```
 
  Developed by: TINU MATHEW M RegisterNumber: 25015787
 
